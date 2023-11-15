@@ -6,3 +6,6 @@
 >The developers and contributors of this repository do not encourage any illegal or malicious activity. 
 >If any misuse entirely the responsibility of that user.
 *****Thank you*****
+#Tags
+>zipcracker
+>zip file password cracker
